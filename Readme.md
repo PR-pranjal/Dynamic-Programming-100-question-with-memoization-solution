@@ -14,6 +14,15 @@ Solutions from both methods are available!🤘
 |         | [Link](#) |
 |         |               |
 
+
+## Knapsack <br/>
+| Problem | Solution Link |
+| ------ | ------ |
+| Partition Equal Subset Sum | [Link](https://github.com/PR-pranjal/Dynamic-Programming-Solutions/blob/main/Memoization/Knapsack/Equal%20Subset%20Sum.md) | 
+|         | [Link](#) |
+|         |               |
+
+
 ## Matrix DP <br/>
 | Problem | Solution Link |
 | ------ | ------ |
