@@ -4,7 +4,7 @@
 
 - Recursion + Memoization
 - Bottom Up Tabulation<br/>
-Solutions from both methods are available!🤘
+Solutions from both methods are available!🤘 We have curated different types of DP problems in different tables and each problem has two links, the first link is Recursion + Memoization based and the second link is Bottom Up Tabulation based.  
 
 
 ## Interval Based <br/>
@@ -15,11 +15,18 @@ Solutions from both methods are available!🤘
 |         |               |
 
 
-## Knapsack <br/>
+## Knapsack Based <br/>
 | Problem | Solution Link |
 | ------ | ------ |
 | Partition Equal Subset Sum | [Link](https://github.com/PR-pranjal/Dynamic-Programming-Solutions/blob/main/Memoization/Knapsack/Equal%20Subset%20Sum.md) | 
 |         | [Link](#) |
+|         |               |
+
+## Longest Increasing Subsequence (LIS) Based <br/>
+| Problem | Solution Link |
+| ------ | ------ |
+| Best Team with No Conflicts | [Link](#) | 
+|         | [Link](https://github.com/PR-pranjal/Dynamic-Programming-Solutions/blob/main/Tabulation/LIS/Best%20Team%20With%20No%20Conflicts.md) |
 |         |               |
 
 
