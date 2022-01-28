@@ -27,6 +27,8 @@ Solutions from both methods are available!🤘 We have curated different types o
 | ------ | ------ |
 | Best Team with No Conflicts | [Link](#) | 
 |         | [Link](https://github.com/PR-pranjal/Dynamic-Programming-Solutions/blob/main/Tabulation/LIS/Best%20Team%20With%20No%20Conflicts.md) |
+| Longest Increasing Subsequence and Print | [Link](#) | 
+|         | [Link](https://github.com/PR-pranjal/Dynamic-Programming-Solutions/blob/main/Tabulation/LIS/LIS%20Length%20and%20Print.md) |
 |         |               |
 
 
